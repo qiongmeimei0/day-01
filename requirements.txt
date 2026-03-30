@@ -1,0 +1,11 @@
+ccxt
+pandas
+numpy
+requests
+python-dotenv
+matplotlib
+scikit-learn
+websocket-client
+openai
+joblib
+TA-Lib
