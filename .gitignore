@@ -1,0 +1,6 @@
+.env
+rf_model.pkl
+__pycache__/
+*.py[cod]
+.venv/
+venv/
