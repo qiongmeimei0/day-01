@@ -1,7 +1,0 @@
-ccxt
-pandas
-python-dotenv
-scikit-learn
-websocket-client
-joblib
-TA-Lib
